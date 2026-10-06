@@ -1,0 +1,213 @@
+state,city,stations,aqi_mean,aqi_median
+Uttar Pradesh,Greater Noida,2,235.6,216.0
+Uttar Pradesh,Ghaziabad,4,231.3,204.0
+Delhi,Delhi,36,215.2,181.2
+Uttar Pradesh,Noida,2,211.6,174.5
+Haryana,Gurugram,2,209.9,206.0
+Haryana,Ballabgarh,1,205.7,204.0
+Haryana,Charkhi Dadri,1,204.6,202.0
+Rajasthan,Bhiwadi,2,196.8,172.0
+Uttar Pradesh,Baghpat,1,190.6,167.5
+Uttar Pradesh,Meerut,3,186.9,157.8
+Uttar Pradesh,Hapur,1,179.8,148.5
+Haryana,Faridabad,3,178.1,174.7
+Uttar Pradesh,Muzaffarnagar,1,175.9,155.0
+Madhya Pradesh,Singrauli,1,175.4,160.0
+Uttar Pradesh,Bulandshahr,1,172.3,158.0
+Haryana,Jind,1,172.0,150.5
+Odisha,Angul,1,160.3,137.0
+Rajasthan,Bikaner,1,158.6,146.0
+Haryana,Bhiwani,1,157.3,146.5
+Rajasthan,Sri Ganganagar,1,156.9,142.0
+Rajasthan,Tonk,1,156.9,136.0
+Tamil Nadu,Gummidipoondi,1,153.7,118.0
+Haryana,Narnaul,1,151.4,119.5
+Haryana,Rohtak,1,151.1,109.0
+Haryana,Yamuna Nagar,1,150.9,129.0
+Punjab,Mandi Gobindgarh,1,148.4,118.0
+Rajasthan,Sikar,1,145.6,132.0
+Rajasthan,Churu,1,145.6,134.0
+Haryana,Fatehabad,1,140.9,115.0
+Odisha,Talcher,1,140.7,111.0
+Madhya Pradesh,Gwalior,3,138.6,125.3
+Andhra Pradesh,Visakhapatnam,1,137.3,118.5
+Odisha,Cuttack,1,137.0,106.0
+Bihar,Hajipur,1,136.1,134.5
+Odisha,Bileipada,1,135.8,128.0
+Haryana,Kaithal,1,133.5,113.0
+Uttar Pradesh,Khurja,1,131.8,111.0
+Uttar Pradesh,Lucknow,5,131.3,114.9
+Rajasthan,Jhunjhunu,1,131.1,127.0
+Rajasthan,Sawai Madhopur,1,129.5,132.0
+Jharkhand,Dhanbad,1,129.2,119.0
+Assam,Byrnihat,1,128.8,123.0
+Rajasthan,Jaipur,4,128.8,117.0
+Odisha,Byasanagar,1,126.8,105.5
+Rajasthan,Pali,1,126.8,122.0
+Rajasthan,Hanumangarh,1,125.9,119.0
+Rajasthan,Kota,3,125.7,110.7
+Rajasthan,Jaisalmer,1,125.3,115.0
+Odisha,Barbil,1,123.6,115.0
+Rajasthan,Nagaur,1,122.5,114.5
+Odisha,Balasore,1,122.4,89.0
+Haryana,Panchgaon,1,121.3,97.0
+Haryana,Ambala,1,121.1,101.0
+Odisha,Bhubaneswar,2,120.3,89.8
+Bihar,Patna,5,119.1,112.9
+Rajasthan,Bhilwara,1,117.8,111.5
+Madhya Pradesh,Bhopal,3,117.4,109.3
+Uttar Pradesh,Agra,5,116.2,111.9
+Rajasthan,Jhalawar,1,115.9,112.0
+Rajasthan,Jalore,1,115.3,108.0
+Rajasthan,Chittorgarh,1,115.0,109.0
+Rajasthan,Bharatpur,1,114.4,117.0
+Rajasthan,Dausa,1,114.2,109.5
+Rajasthan,Bundi,1,113.3,107.0
+West Bengal,Howrah,5,113.3,83.3
+Rajasthan,Dholpur,1,112.9,104.0
+Rajasthan,Barmer,1,111.9,106.5
+Gujarat,Ahmedabad,8,110.8,106.4
+Rajasthan,Baran,1,110.1,111.0
+Rajasthan,Jodhpur,5,109.6,104.1
+Madhya Pradesh,Katni,1,109.5,106.5
+Rajasthan,Udaipur,1,109.4,110.0
+Madhya Pradesh,Dewas,1,109.0,103.0
+Gujarat,Gandhinagar,2,108.8,110.5
+Bihar,Chhapra,1,107.9,109.0
+Chandigarh,Chandigarh,1,107.0,92.0
+Maharashtra,Chandrapur,2,106.9,111.5
+Uttar Pradesh,Moradabad,6,106.7,103.8
+Madhya Pradesh,Sagar,1,105.9,100.0
+Bihar,Saharsa,1,105.8,102.0
+Bihar,Siwan,1,105.6,104.0
+West Bengal,Kolkata,7,105.0,69.7
+Rajasthan,Banswara,1,104.9,104.5
+Odisha,Suakati,1,104.7,96.0
+Rajasthan,Alwar,1,103.9,103.0
+Punjab,Khanna,1,103.5,95.0
+Bihar,Muzaffarpur,2,103.5,100.5
+Rajasthan,Pratapgarh,1,103.3,104.0
+Punjab,Ludhiana,1,103.3,101.0
+West Bengal,Asansol,4,102.5,82.1
+West Bengal,Haldia,1,102.2,67.0
+Maharashtra,Nagpur,4,101.9,97.2
+Gujarat,Ankleshwar,1,101.3,89.0
+Odisha,Rourkela,2,100.3,90.5
+Uttar Pradesh,Kanpur,3,100.2,90.7
+Assam,Guwahati,2,100.0,69.0
+Rajasthan,Karauli,1,99.8,96.0
+Haryana,Mandikhera,1,98.5,94.0
+Punjab,Jalandhar,1,98.5,86.5
+Maharashtra,Pimpri-Chinchwad,3,98.4,87.5
+Odisha,Baripada,1,98.3,83.5
+Punjab,Amritsar,1,98.0,92.0
+Haryana,Palwal,1,97.9,93.0
+Madhya Pradesh,Jabalpur,4,97.5,91.2
+Madhya Pradesh,Ratlam,1,97.4,102.0
+Bihar,Buxar,1,97.3,79.0
+Punjab,Patiala,1,97.0,101.0
+Rajasthan,Rajsamand,1,96.8,88.0
+Bihar,Bihar Sharif,1,96.7,79.0
+Bihar,Gaya,2,96.4,96.0
+Rajasthan,Dungarpur,1,95.4,87.0
+Bihar,Bhagalpur,2,95.4,87.5
+Maharashtra,Malegaon,1,94.9,96.5
+Tamil Nadu,Chennai,6,94.6,76.9
+Maharashtra,Dhule,1,94.4,91.0
+Maharashtra,Ulhasnagar,1,94.4,85.0
+Bihar,Begusarai,1,94.4,85.0
+Andhra Pradesh,Amaravati,1,94.1,79.0
+Punjab,Rupnagar,1,93.9,66.5
+Uttarakhand,Dehradun,1,93.7,74.0
+Maharashtra,Pune,5,93.4,81.4
+Maharashtra,Bhiwandi,1,93.3,89.5
+Maharashtra,Nanded,1,92.3,87.0
+Maharashtra,Jalgaon,1,92.0,94.0
+Maharashtra,Belapur,1,91.6,80.5
+Rajasthan,Sirohi,1,91.3,89.5
+Maharashtra,Aurangabad,3,91.1,86.7
+Odisha,Keonjhar,1,90.5,88.0
+Bihar,Kishanganj,1,90.3,72.0
+Bihar,Motihari,1,90.2,82.0
+Bihar,Katihar,1,90.1,89.0
+Odisha,Nayagarh,1,90.1,85.0
+Maharashtra,Mahad,1,90.0,86.5
+West Bengal,Durgapur,2,90.0,83.5
+Uttar Pradesh,Gorakhpur,1,89.3,85.0
+Maharashtra,Badlapur,1,88.9,88.5
+Bihar,Bettiah,1,88.4,76.0
+Assam,Nalbari,1,88.2,72.0
+Maharashtra,Navi Mumbai,3,88.0,72.7
+Uttar Pradesh,Prayagraj,3,87.8,76.2
+Chhattisgarh,Chhal,1,87.7,85.0
+Bihar,Araria,1,87.3,73.0
+Andhra Pradesh,Rajamahendravaram,1,87.1,59.0
+West Bengal,Barrackpore,1,86.9,64.0
+Maharashtra,Mumbai,14,86.8,76.2
+Andhra Pradesh,Tirumala,1,86.5,69.0
+Chhattisgarh,Tumidih,1,86.5,85.0
+Punjab,Bathinda,1,86.4,78.0
+Bihar,Arrah,1,86.3,58.0
+Odisha,Brajrajnagar,1,85.6,81.5
+Maharashtra,Parbhani,1,85.4,79.5
+Maharashtra,Virar,1,84.9,79.0
+Uttar Pradesh,Varanasi,4,84.6,79.9
+Arunachal Pradesh,Naharlagun,1,84.6,52.0
+Bihar,Munger,1,84.3,77.0
+Uttar Pradesh,Vrindavan,1,84.3,80.0
+Gujarat,Surat,1,83.6,66.0
+Andhra Pradesh,Chittoor,1,83.2,70.0
+Karnataka,Dharwad,1,83.1,82.0
+Madhya Pradesh,Indore,5,83.1,76.1
+Maharashtra,Ahmednagar,1,82.6,86.0
+Maharashtra,Sangli,1,82.5,64.0
+Karnataka,Bengaluru,8,81.1,78.9
+Maharashtra,Jalna,1,81.0,76.0
+Maharashtra,Solapur,2,80.8,80.8
+Maharashtra,Thane,2,80.8,78.5
+Maharashtra,Amravati,2,80.3,83.5
+Andhra Pradesh,Tirupati,1,80.2,70.0
+Bihar,Purnia,1,79.7,73.0
+Maharashtra,Boisar,1,79.4,73.0
+Odisha,Rairangpur,1,79.0,83.0
+Uttar Pradesh,Bareilly,2,78.8,76.0
+Chhattisgarh,Kunjemura,1,78.8,71.0
+Chhattisgarh,Bilaspur,1,78.6,79.0
+Maharashtra,Nashik,4,78.4,77.2
+Maharashtra,Akola,1,77.4,83.0
+Tamil Nadu,Thoothukudi,1,77.3,66.0
+Andhra Pradesh,Anantapur,1,76.6,71.0
+Telangana,Hyderabad,11,76.5,75.4
+Tripura,Agartala,1,76.3,62.0
+Karnataka,Yadgir,1,75.7,77.0
+Andhra Pradesh,Vijayawada,3,75.5,69.3
+Assam,Nagaon,1,75.3,61.0
+Andhra Pradesh,Kadapa,1,74.6,67.5
+Uttar Pradesh,Firozabad,2,72.4,66.2
+Karnataka,Mysuru,1,71.5,68.0
+Uttar Pradesh,Jhansi,1,70.3,69.0
+Maharashtra,Latur,1,70.2,68.5
+Kerala,Thiruvananthapuram,2,69.4,55.8
+Kerala,Kannur,1,69.1,64.0
+Madhya Pradesh,Satna,1,67.8,70.0
+Maharashtra,Kolhapur,2,67.2,57.5
+Chhattisgarh,Korba,2,66.2,64.5
+Madhya Pradesh,Damoh,1,66.2,51.0
+Puducherry,Puducherry,1,64.4,58.5
+Kerala,Thrissur,1,62.3,59.0
+Chhattisgarh,Raipur,3,61.3,56.8
+Tamil Nadu,Coimbatore,1,60.4,55.0
+Nagaland,Kohima,1,59.5,68.0
+Assam,Sivasagar,1,59.1,58.0
+Tamil Nadu,Perundurai,1,58.0,54.0
+Karnataka,Shivamogga,1,57.7,55.0
+Jammu and Kashmir,Srinagar,1,57.7,39.0
+Assam,Silchar,1,55.1,54.0
+Karnataka,Hubballi,1,54.7,56.0
+Chhattisgarh,Bhilai,3,51.3,48.0
+Karnataka,Kalaburagi,1,51.3,52.0
+Karnataka,Bagalkot,1,49.3,50.0
+Karnataka,Chamarajanagar,1,45.7,44.0
+Karnataka,Vijayapura,1,45.6,43.0
+Sikkim,Gangtok,1,39.5,33.0
+Karnataka,Madikeri,1,34.1,30.0

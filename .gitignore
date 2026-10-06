@@ -1,0 +1,6 @@
+raw_data/
+download_log*.csv
+output/aqi_station_daily*.csv
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
